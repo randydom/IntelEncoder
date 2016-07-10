@@ -1,7 +1,7 @@
 object fmMain: TfmMain
   Left = 0
   Top = 0
-  Caption = 'fmMain'
+  Caption = 'Screen Captrue'
   ClientHeight = 817
   ClientWidth = 1027
   Color = clBtnFace
@@ -28,8 +28,6 @@ object fmMain: TfmMain
     Height = 776
     Align = alClient
     TabOrder = 0
-    ExplicitTop = 82
-    ExplicitHeight = 735
     object imgDst: TImage
       Left = 0
       Top = 0
